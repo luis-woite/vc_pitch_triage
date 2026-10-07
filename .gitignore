@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+output/
+rendered_slides/
+sample_decks/*.pdf
+.DS_Store
